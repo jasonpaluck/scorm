@@ -13,7 +13,6 @@ Gem::Specification.new do |s|
 
   s.bindir             = 'bin'
   s.executables        = ['scorm']
-  s.default_executable = 'scorm'
 
   s.add_dependency('rubyzip',  '~> 2.3.0')
 end
